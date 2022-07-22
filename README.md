@@ -6,4 +6,6 @@ The internal configurations of each device is also done so that the simulation a
 <- Requirements ->
 * Cisco Packet Tracer
 
-NOthinG elSe! eNjoY :)
+NOthinG elSe!
+
+eNjoY :)
